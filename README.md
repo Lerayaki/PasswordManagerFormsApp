@@ -1,4 +1,4 @@
-# PasswordManagerFormsApp
+# Password Manager
 Basic local password manager Windows Form Application developed in C# using .Net framework
 
 ![Screenshot 2](https://github.com/Lerayaki/PasswordManagerFormsApp/blob/master/img/2.PNG?raw=true "Screenshot 2")
